@@ -23,5 +23,9 @@
 ##
   
 ### Redes Sociais
+  <div>
+    <a href="https://www.linkedin.com/in/hytalo-rodrigues-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkeIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="hytalormds.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
   
 
