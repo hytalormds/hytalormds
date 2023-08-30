@@ -1,8 +1,8 @@
 ### Olá, eu sou o Hytalo👋
 
 - 🔭 No momento estou estudando
-- 🌱 No momento estou me aprofundando em Python
-- 👯 Busco colaborar em projetos básicos em Ciência de Dados e Desenvolvimento de Banco de Dados
+- 🌱 No momento estou me aprofundando em R e Python
+- 👯 Busco colaborar em projetos básicos em Ciência de Dados
 
 <div>
   <a href="https://github.com/hytalormds">
